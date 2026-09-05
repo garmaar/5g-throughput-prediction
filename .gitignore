@@ -1,0 +1,43 @@
+#Python
+
+__pycache__/
+*.py[cod]
+
+#Virtual Enviroments
+
+.venv/
+venv/
+
+#Jupyter
+
+.ipynb_checkpoints/
+
+#Enviroment variables / secrets
+
+.env
+.env.*
+
+#Raw Datasets
+data/raw/*
+
+#Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+#Build / packaging
+
+build/
+dist/
+*.egg-info/
+
+#IDEs
+.vscode/
+.idea/
+
+#Operating system files
+.DS_Store
+Thumbs.db
+
