@@ -376,10 +376,8 @@ View the project presentation
 
 Reproducing the Project
 1. Clone the repository
-git clone <REPOSITORY_URL>
-cd NDAL_Project7_Throughput_Prediction_in_a_Dense_5G_deployment
-
-Replace <REPOSITORY_URL> with the GitHub repository URL.
+git clone <https://github.com/garmaar/5g-throughput-prediction.git>
+cd 5g-throughput-prediction 
 
 2. Create a virtual environment
 python3 -m venv .venv
